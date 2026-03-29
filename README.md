@@ -6,7 +6,7 @@ This project demonstrates the implementation of two fundamental line clipping al
 - Liang-Barsky Line Clipping
 
 ## 📷 Output
-
+![Output](output_screen.png)
 The application visualizes:
 - Original lines
 - Clipped lines using Cohen-Sutherland
